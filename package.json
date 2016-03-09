@@ -1,0 +1,4 @@
+{
+    "name": "com.serialloser.app.twitchunoffical.service",
+    "main": "TwitchWebOSService.js"
+}
